@@ -7,3 +7,4 @@ hello flume
 hello hbase
 hello zookeeper
 hello oozie
+hello kk
