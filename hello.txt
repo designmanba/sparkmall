@@ -3,3 +3,4 @@ hello scala
 hello kafka
 hello hive
 hello kylin
+hello flume
