@@ -1,2 +1,4 @@
 hello spark
 hello scala
+hello kafka
+hello hive
