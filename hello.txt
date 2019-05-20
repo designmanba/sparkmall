@@ -5,3 +5,4 @@ hello hive
 hello kylin
 hello flume
 hello hbase
+hello zookeeper
